@@ -147,7 +147,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     - _alpha: 0.206
-    - _alphaThreshold: 0.833
+    - _alphaThreshold: 0
     - _emissionStrength: 0
     - _metallicSrength: 0
     - _normalStrength: 0

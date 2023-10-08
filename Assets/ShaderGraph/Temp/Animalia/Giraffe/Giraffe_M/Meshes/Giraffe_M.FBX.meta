@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 9b6f96073da254748bd7c102ae690a85
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Giraffe_M_LOD0
+    100004: Giraffe_M_LOD1
+    100006: Giraffe_M_LOD2
+    100008: Giraffe_M_LOD3
+    100010: RigChest
+    100012: RigHead
+    100014: RigJaw1
+    100016: RigJawLipBottom
+    100018: RigLBLeg1
+    100020: RigLBLeg2
+    100022: RigLBLeg3
+    100024: RigLBLegAnkle
+    100026: RigLEar1
+    100028: RigLEye1
+    100030: RigLEyelid1
+    100032: RigLFLeg1
+    100034: RigLFLeg2
+    100036: RigLFLeg3
+    100038: RigLFLegAnkle
+    100040: RigLFLegCollarbone
+    100042: RigLipUpper
+    100044: RigLShoulderBlade
+    100046: RigNeck1
+    100048: RigNeck2
+    100050: RigNeck3
+    100052: RigNeck4
+    100054: RigNeck5
+    100056: RigNeck6
+    100058: RigNeck7
+    100060: RigPelvis
+    100062: RigRBLeg1
+    100064: RigRBLeg2
+    100066: RigRBLeg3
+    100068: RigRBLegAnkle
+    100070: RigREar1
+    100072: RigREye1
+    100074: RigREyelid1
+    100076: RigRFLeg1
+    100078: RigRFLeg2
+    100080: RigRFLeg3
+    100082: RigRFLegAnkle
+    100084: RigRFLegCollarbone
+    100086: RigRoot
+    100088: RigRShoulderBlade
+    100090: RigSpine1
+    100092: RigSpine2
+    100094: RigTail1
+    100096: RigTail2
+    100098: RigTail3
+    100100: RigTail4
+    100102: RigTail5
+    100104: RigTail6
+    100106: RigTongue1
+    100108: RigTongue2
+    100110: RigTongue3
+    100112: RigTongue4
+    400000: //RootNode
+    400002: Giraffe_M_LOD0
+    400004: Giraffe_M_LOD1
+    400006: Giraffe_M_LOD2
+    400008: Giraffe_M_LOD3
+    400010: RigChest
+    400012: RigHead
+    400014: RigJaw1
+    400016: RigJawLipBottom
+    400018: RigLBLeg1
+    400020: RigLBLeg2
+    400022: RigLBLeg3
+    400024: RigLBLegAnkle
+    400026: RigLEar1
+    400028: RigLEye1
+    400030: RigLEyelid1
+    400032: RigLFLeg1
+    400034: RigLFLeg2
+    400036: RigLFLeg3
+    400038: RigLFLegAnkle
+    400040: RigLFLegCollarbone
+    400042: RigLipUpper
+    400044: RigLShoulderBlade
+    400046: RigNeck1
+    400048: RigNeck2
+    400050: RigNeck3
+    400052: RigNeck4
+    400054: RigNeck5
+    400056: RigNeck6
+    400058: RigNeck7
+    400060: RigPelvis
+    400062: RigRBLeg1
+    400064: RigRBLeg2
+    400066: RigRBLeg3
+    400068: RigRBLegAnkle
+    400070: RigREar1
+    400072: RigREye1
+    400074: RigREyelid1
+    400076: RigRFLeg1
+    400078: RigRFLeg2
+    400080: RigRFLeg3
+    400082: RigRFLegAnkle
+    400084: RigRFLegCollarbone
+    400086: RigRoot
+    400088: RigRShoulderBlade
+    400090: RigSpine1
+    400092: RigSpine2
+    400094: RigTail1
+    400096: RigTail2
+    400098: RigTail3
+    400100: RigTail4
+    400102: RigTail5
+    400104: RigTail6
+    400106: RigTongue1
+    400108: RigTongue2
+    400110: RigTongue3
+    400112: RigTongue4
+    2100000: Giraffe_M_Eye
+    2100002: Giraffe_M
+    2100004: Giraffe_M_APFur
+    4300000: Giraffe_M_LOD0
+    4300002: Giraffe_M_LOD1
+    4300004: Giraffe_M_LOD2
+    4300006: Giraffe_M_LOD3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Giraffe_M_LOD0
+    13700002: Giraffe_M_LOD1
+    13700004: Giraffe_M_LOD2
+    13700006: Giraffe_M_LOD3
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Giraffe_M
+    second: {fileID: 2100000, guid: 90405c5f6f65d214ab2a78f660733054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Giraffe_M_APFur
+    second: {fileID: 2100000, guid: ee9f6391231cfc34d9ecd858ff428f4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Giraffe_M_Eye
+    second: {fileID: 2100000, guid: 31f29f1f034369c47a27a7c163f00df7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: RigRoot
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
