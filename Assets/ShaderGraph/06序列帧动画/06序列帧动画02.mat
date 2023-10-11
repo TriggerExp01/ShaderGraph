@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "06\u5E8F\u5217\u5E27\u52A8\u753B"
-  m_Shader: {fileID: -6465566751694194690, guid: bdbf26fe1429d574e95cfe7682b1358b,
+  m_Name: "06\u5E8F\u5217\u5E27\u52A8\u753B02"
+  m_Shader: {fileID: -6465566751694194690, guid: 6a15afd813d847b4d981f1fb097aac8c,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -25,7 +25,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _mainTex:
-        m_Texture: {fileID: 2800000, guid: 4141e50d4d7c12c4ebf0959edc74ae75, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8b794fc0834f71f40b1eadac78771450, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mainTexArr:
+        m_Texture: {fileID: 18700000, guid: 0a4e2ef190add5748bbf38bcc7d25c2a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -45,11 +49,13 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _colNum: 4
-    - _num: 0
-    - _rowNum: 16
+    - _index: 35
+    - _num: 15
+    - _rowNum: 4
+    - _speed: 2.54
     m_Colors: []
   m_BuildTextureStacks: []
---- !u!114 &4512117271320076902
+--- !u!114 &2389066444013140888
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
